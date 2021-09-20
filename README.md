@@ -49,7 +49,7 @@
 
 My projects: 
  
- - <h3> 🍕 Dogspedia Individual Project: https://github.com/sophiiaR/PI-Dogs-FT_15a </h3>
+ - <h3> Dogspedia Individual Project: https://github.com/sophiiaR/PI-Dogs-FT_15a </h3>
 <p>
   <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog1.png"></a>
   <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog2.png"></a>
