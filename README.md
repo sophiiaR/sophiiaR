@@ -10,11 +10,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sofia Raissiguier</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sofia-raissiguier-dev/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="sofia" height="30" width="40" /></a>
- <a href = "mailto: sraissiguier@hotmail.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
-</p>
-</p>
+
 
 
 
