@@ -44,7 +44,7 @@
  </p>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+&nbsp;<i><b>GitHub Stats</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiiaR&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="sofia-r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
