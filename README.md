@@ -31,9 +31,6 @@
 </p>
 
  
-
-
-  
   
    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
@@ -49,3 +46,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiiaR&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="sofia-r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
+
+My projects: 
+ 
+ - <h3> 🍕 Dogspedia Individual Project: https://github.com/sophiiaR/PI-Dogs-FT_15a </h3>
+<p>
+  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog1.png"></a>
+  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog2.png"></a>
+  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog3.png"></a>
+</p>
