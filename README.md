@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
 
-My projects: 
+<h2>My projects:</h2> 
  
  - <h3> Dogspedia Individual Project: https://github.com/sophiiaR/PI-Dogs-FT_15a </h3>
 <p>
