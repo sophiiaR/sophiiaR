@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    This is ME, Sofia!. <br>
+    This is ME, Sofia! <br>
     A budding <b>Full-Stack Web Developer</b> and a <b>Programming Enthusiast</b>&nbsp<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> and 
