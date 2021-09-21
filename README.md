@@ -8,23 +8,9 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sofia Raissiguier</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sofia </h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-
-
-
-<p align="center">
-  <em>
-//    This is ME, Sofia! <br>
-    A budding <b>Full-Stack Web Developer</b> and a <b>Programming Enthusiast</b>&nbsp<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <b><i>There are no limits to learn!!!</i></b> 
-</p>
 
 
  
