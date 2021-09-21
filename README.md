@@ -13,7 +13,7 @@
 
 
 
-
+/*
 <p align="center">
   <em>
     This is ME, Sofia! <br>
@@ -25,6 +25,7 @@
   <br>
   <b><i>There are no limits to learn!!!</i></b> 
 </p>
+*/
 
  
  <p align="center"> 
