@@ -32,16 +32,18 @@
   <code> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"> </code>
   <code> <img height="40" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width="55"> </code>
  </p>
+ <br>
   <hr>
-  <p align="center">
-&nbsp;<i><b>GitHub Stats</b></i></p>
+  <h3 align="center">GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiiaR&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="sofia-r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
+<br>
+<hr>
 
-<h2>My projects:</h2> 
+<h3 align="center">My projects</h3> 
  
- - <h3> Dogspedia Individual Project: https://github.com/sophiiaR/PI-Dogs-FT_15a </h3>
+ <h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
 <p>
   <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog1.png"></a>
   <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog2.png"></a>
@@ -50,3 +52,14 @@
   <h4>About:</h4>
 <p>Single page application developed around the Rest Dogs API that allows the user to search for different dog's breeds. 
 I used a PostgreSQL database and Sequelize ORM to create the models and implement the CRUD operations, the backend was developed using Node.js and Express, and the frontend was developed using React.js and Redux. The web app has a searchbar, sorting and filtering features that allows the user to not only find an specific dog breed, including information such as weight, height and temperament, but also create his own breed.</p>
+<br>
+<h4> :label: e-Market: https://github.com/sophiiaR/e-market </h4>
+<h4> :dress: My Outfit: https://github.com/sophiiaR/my-outfit </h4>
+<br>
+<hr>
+<h3 align="center">Contact Me</h3>
+<a href="https://www.linkedin.com/in/sofia-raissiguier-dev/"><span> <b>LinkedIn</b></span></a>
+<br>
+<a href="mailto:sraissiguier@gmail.com"><span> <b>Email</b></span></a>
+<br>
+<hr>
