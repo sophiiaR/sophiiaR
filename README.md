@@ -58,8 +58,10 @@ I used a PostgreSQL database and Sequelize ORM to create the models and implemen
 <br>
 <hr>
 <h3 align="center">Contact Me</h3>
-<a href="https://www.linkedin.com/in/sofia-raissiguier-dev/"><span> <b>LinkedIn</b></span></a>
-<br>
-<a href="mailto:sraissiguier@gmail.com"><span> <b>Email</b></span></a>
+
+- Linkedin: https://www.linkedin.com/in/sofia-raissiguier-dev/
+
+- E-Mail: sraissiguier@gmail.com
+
 <br>
 <hr>
