@@ -3,12 +3,18 @@
   <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
   <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
   <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
-    <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
   <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" /></a>
 </p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sofia </h1>
+<p align="center">
+- 💻 I’m working on different projects that includes technologies such as React, Redux, NodeJS, PHP, Laravel </br>
+- 📚 I’m currently learning Python and Typescript 😅 </br>
+- 💪🏼 Goals: Improve my technical skills to became a better developer :woman_technologist:</br>
+</p>
+
 <h3 align="center">Full Stack Web Developer</h3>
 
 
