@@ -43,9 +43,9 @@
 
 <h3 align="center">My projects</h3> 
  
-<h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
 <h4> :label: e-Market: https://github.com/sophiiaR/e-market </h4>
 <h4> :dress: My Outfit: https://github.com/sophiiaR/my-outfit </h4>
+<h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
 <br>
 <hr>
 <h3 align="center">Contact Me</h3>
