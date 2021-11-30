@@ -43,16 +43,7 @@
 
 <h3 align="center">My projects</h3> 
  
- <h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
-<p>
-  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog1.png"></a>
-  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog2.png"></a>
-  <a><img height="250" width="400" src="https://github.com/sophiiaR/sophiiaR/blob/main/pics/dog3.png"></a>
-</p>
-  <h4>About:</h4>
-<p>Single page application developed around the Rest Dogs API that allows the user to search for different dog's breeds. 
-I used a PostgreSQL database and Sequelize ORM to create the models and implement the CRUD operations, the backend was developed using Node.js and Express, and the frontend was developed using React.js and Redux. The web app has a searchbar, sorting and filtering features that allows the user to not only find an specific dog breed, including information such as weight, height and temperament, but also create his own breed.</p>
-<br>
+<h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
 <h4> :label: e-Market: https://github.com/sophiiaR/e-market </h4>
 <h4> :dress: My Outfit: https://github.com/sophiiaR/my-outfit </h4>
 <br>
