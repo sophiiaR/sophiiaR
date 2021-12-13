@@ -46,6 +46,7 @@
 <h4> :label: e-Market: https://github.com/sophiiaR/e-market </h4>
 <h4> :dress: My Outfit: https://github.com/sophiiaR/my-outfit </h4>
 <h4> :dog2: Dogspedia: https://github.com/sophiiaR/PI-Dogs-FT_15a </h4>
+<h4> :notebook_with_decorative_cover: My Blog: https://github.com/sophiiaR/my-blog</h4>
 <h4> :wrench: Home Services: https://github.com/sophiiaR/home-services </h4>
 <br>
 <hr>
