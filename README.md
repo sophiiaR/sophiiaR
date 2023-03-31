@@ -37,7 +37,7 @@
   <h3 align="center">GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiiaR&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="sofia-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=sophiiaR&show_icons=true&locale=en&theme=radical" alt="sofia-r" width="410" /></p>
 <br>
 <hr>
 
